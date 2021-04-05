@@ -2,32 +2,53 @@
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="SHOW FACE",[COLOR lime][B]**[/B][/COLOR][COLOR yellow] SHOW FACE [COLOR red]TV[COLOR lime][B]**[/B][/COLOR][/COLOR][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/27819.png" group-title="CANAL FECHADO", FOX ESPORT
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAL FECHADO", SBT
-https://www.sbt.com.br/ao-vivo.m3u8
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL ABERTO", GLOBO 01
-http://pdsrv.io:80/fabioscaief99/FS9981/61302
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 02
-http://trenduhd.xyz:80/daqu3547/11150240/188301
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 03
-http://tau.selfip.com:25461/dj2004/759296/1152
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 04
-http://srvx.io:80/6395893137/fireurl.co/72040
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 05
-http://b5.vc:80/8201496212/fireurl.co/72040
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 06
-http://e.advd.cyou:80/anderson/anderson/184969
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/68767.png" group-title="CANAL FECHADO", GLOBO 07
-http://natv.pw:80/Marcooani6358/eBwJi8yef3/18330
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="CANAL ABERTO", TV CULTURA
-https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1351862009.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="CANAL ABERTO", Krónos Movie Web Tv
-https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w709074992.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="CANAL ABERTO", Anime Tv
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1244768975.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/86600ed6f09e4bf48be4e55a0cd01536.jpg" group-title="CANAL ABERTO", Record News
-https://youtu.be/ZZfVgVnnUpot
-
+#EXTM3U
+#EXTINF:0,RedTraffic TV Live Cams
+http://live.redtraffic.net/livecams.m3u8
+#EXTINF:0,RedTraffic TV MILF
+http://live.redtraffic.net/milf.m3u8
+#EXTINF:0,RedTraffic TV Big Dick
+http://live.redtraffic.net/bigdick.m3u8
+#EXTINF:0,RedTraffic TV Big Tits
+http://live.redtraffic.net/bigtits.m3u8
+#EXTINF:0,RedTraffic TV Fetish
+http://live.redtraffic.net/fetish.m3u8
+#EXTINF:0,RedTraffic TV Pornstar
+http://live.redtraffic.net/pornstar.m3u8
+#EXTINF:0,RedTraffic TV Big Ass
+http://live.redtraffic.net/bigass.m3u8
+#EXTINF:0,RedTraffic TV Interracial
+http://live.redtraffic.net/interracial.m3u8
+#EXTINF:0,RedTraffic TV Latina
+http://live.redtraffic.net/latina.m3u8
+#EXTINF:0,RedTraffic TV POV
+http://live.redtraffic.net/pov.m3u8
+#EXTINF:0,RedTraffic TV Blowjob
+http://live.redtraffic.net/blowjob.m3u8
+#EXTINF:0,RedTraffic TV Teen
+http://live.redtraffic.net/teen.m3u8
+#EXTINF:0,RedTraffic TV Hardcore
+http://live.redtraffic.net/hardcore.m3u8
+#EXTINF:0,RedTraffic TV Cuckold
+http://live.redtraffic.net/cuckold.m3u8
+#EXTINF:0,RedTraffic TV Threesome
+http://live.redtraffic.net/threesome.m3u8
+#EXTINF:0,RedTraffic TV Russian
+http://live.redtraffic.net/russian.m3u8
+#EXTINF:0,RedTraffic TV Lesbian
+http://live.redtraffic.net/lesbian.m3u8
+#EXTINF:0,RedTraffic TV Rough
+http://live.redtraffic.net/rough.m3u8
+#EXTINF:0,RedTraffic TV Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:0,RedTraffic TV Anal
+http://live.redtraffic.net/anal.m3u8
+#EXTINF:0,RedTraffic TV Compilation
+http://live.redtraffic.net/compilation.m3u8
+#EXTINF:0,RedTraffic TV Brunette
+http://live.redtraffic.net/brunette.m3u8
+#EXTINF:0,RedTraffic TV Blonde
+http://live.redtraffic.net/blonde.m3u8
+#EXTINF:0,RedTraffic TV Gay
+http://live.redtraffic.net/gay.m3u8
 
