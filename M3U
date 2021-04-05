@@ -9,6 +9,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAL FECHADO", SBT
 https://www.sbt.com.br/ao-vivo.m3u8
 
+#EXTINF:-1,Unknown_1
 http://pdsrv.io:80/fabioscaief99/FS9981/61302
 #EXTINF:-1,Unknown_2
 http://trenduhd.xyz:80/daqu3547/11150240/188301
